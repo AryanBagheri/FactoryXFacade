@@ -1,0 +1,15 @@
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/cSharp8.csproj.AssemblyReference.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/cSharp8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/cSharp8.AssemblyInfoInputs.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/cSharp8.AssemblyInfo.cs
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/cSharp8.csproj.CoreCompileInputs.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp8/bin/Debug/net7.0/cSharp8
+/Users/aryanbagheri/Docs/cSharp/cSharp8/bin/Debug/net7.0/cSharp8.deps.json
+/Users/aryanbagheri/Docs/cSharp/cSharp8/bin/Debug/net7.0/cSharp8.runtimeconfig.json
+/Users/aryanbagheri/Docs/cSharp/cSharp8/bin/Debug/net7.0/cSharp8.dll
+/Users/aryanbagheri/Docs/cSharp/cSharp8/bin/Debug/net7.0/cSharp8.pdb
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/cSharp8.dll
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/refint/cSharp8.dll
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/cSharp8.pdb
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/cSharp8.genruntimeconfig.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp8/obj/Debug/net7.0/ref/cSharp8.dll
