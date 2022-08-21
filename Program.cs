@@ -1,4 +1,4 @@
-﻿namespace cSharp8
+namespace cSharp8
 {
     public interface Building
     {
@@ -38,13 +38,23 @@
     }
     public class Facade
     {
-        public Building Pick(Builder pick, string name)
+        public Building Pick(string name, int a)
         {
-            return pick.Result(name);   
+            Builder pick;
+            if (a == 1)
+            {
+                pick = new HouseBuilder();
+                return pick.Result(name);
+            }
+            else
+            {
+                pick = new ApartmentBuilder();
+                return pick.Result(name);
+            }
         }
         public string Name(Building pick)
         {
-            return pick.Owner;   
+            return pick.Owner;
         }
     }
     class Program
@@ -54,7 +64,9 @@
             var prog = new Facade();
             Console.WriteLine("pls enter your name");
             string name = Console.ReadLine();
-            Building yourBuilding = prog.Pick(new ApartmentBuilder(), name);
+            Console.WriteLine($"pls enter the you choice: \n1. House \n2. Apartment");
+            int choice = int.Parse(Console.ReadLine());
+            Building yourBuilding = prog.Pick(name, choice);
             string owner = prog.Name(yourBuilding);
             Console.WriteLine(owner);
         }
